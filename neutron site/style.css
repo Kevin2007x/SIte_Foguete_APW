@@ -57,6 +57,10 @@
     background-image: url(https://i.pinimg.com/564x/9d/12/70/9d1270c90b5753a9b289ad44d12fa095.jpg);
     padding-left: 20px;
   }
+
+  .rightcolumn video {
+    width: 100%;
+  }
   
   /* Fake image */
   .fakeimg {
